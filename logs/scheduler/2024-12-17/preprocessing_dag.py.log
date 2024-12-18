@@ -1,0 +1,102 @@
+[2024-12-17T23:52:52.441+0000] {processor.py:157} INFO - Started process (PID=52) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:52:52.443+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:52:52.449+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:52.449+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:52:54.735+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:52:55.115+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.114+0000] {manager.py:501} INFO - Created Permission View: can read on DAG:youtube_preprocessing_dag
+[2024-12-17T23:52:55.135+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.135+0000] {manager.py:501} INFO - Created Permission View: can edit on DAG:youtube_preprocessing_dag
+[2024-12-17T23:52:55.150+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.149+0000] {manager.py:501} INFO - Created Permission View: can delete on DAG:youtube_preprocessing_dag
+[2024-12-17T23:52:55.182+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.181+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:52:55.207+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.206+0000] {dag.py:2929} INFO - Creating ORM DAG for youtube_preprocessing_dag
+[2024-12-17T23:52:55.209+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:52:55.209+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:52:55.290+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 2.856 seconds
+[2024-12-17T23:53:25.407+0000] {processor.py:157} INFO - Started process (PID=115) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:25.409+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:53:25.413+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:25.412+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:25.741+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:25.763+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:25.763+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:53:25.778+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:25.777+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:53:25.815+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.412 seconds
+[2024-12-17T23:53:56.314+0000] {processor.py:157} INFO - Started process (PID=184) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:56.315+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:53:56.318+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:56.318+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:56.614+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:53:56.632+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:56.631+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:53:56.646+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:53:56.646+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:53:56.671+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.362 seconds
+[2024-12-17T23:54:26.984+0000] {processor.py:157} INFO - Started process (PID=246) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:26.986+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:54:26.988+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:26.988+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:27.295+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:27.320+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:27.319+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:54:27.337+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:27.337+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:54:27.366+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.385 seconds
+[2024-12-17T23:54:58.258+0000] {processor.py:157} INFO - Started process (PID=308) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:58.259+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:54:58.263+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:58.262+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:58.555+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:54:58.572+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:58.572+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:54:58.585+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:54:58.585+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:54:58.609+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.355 seconds
+[2024-12-17T23:55:29.070+0000] {processor.py:157} INFO - Started process (PID=370) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:29.074+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:55:29.081+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:29.080+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:29.398+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:29.417+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:29.416+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:55:29.429+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:29.429+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:55:29.449+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.393 seconds
+[2024-12-17T23:55:59.569+0000] {processor.py:157} INFO - Started process (PID=431) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:59.570+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:55:59.574+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:59.573+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:59.867+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:55:59.886+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:59.885+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:55:59.900+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:55:59.900+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:55:59.925+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.361 seconds
+[2024-12-17T23:56:30.299+0000] {processor.py:157} INFO - Started process (PID=493) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:56:30.302+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:56:30.310+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:56:30.308+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:56:30.622+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:56:30.640+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:56:30.640+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:56:30.653+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:56:30.653+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:56:30.687+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.397 seconds
+[2024-12-17T23:57:00.729+0000] {processor.py:157} INFO - Started process (PID=555) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:00.730+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:57:00.734+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:00.733+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:01.032+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:01.049+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:01.049+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:57:01.062+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:01.062+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:57:01.095+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.370 seconds
+[2024-12-17T23:57:31.928+0000] {processor.py:157} INFO - Started process (PID=617) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:31.929+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:57:31.932+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:31.932+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:32.225+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:57:32.243+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:32.243+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:57:32.256+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:57:32.256+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:57:32.279+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.356 seconds
+[2024-12-17T23:58:02.385+0000] {processor.py:157} INFO - Started process (PID=679) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:02.386+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:58:02.392+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:02.391+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:02.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:02.706+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:02.705+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:58:02.718+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:02.718+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:58:02.741+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.364 seconds
+[2024-12-17T23:58:33.714+0000] {processor.py:157} INFO - Started process (PID=741) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:33.716+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:58:33.720+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:33.720+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:34.069+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:58:34.089+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:34.088+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:58:34.107+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:58:34.107+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:58:34.128+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.420 seconds
+[2024-12-17T23:59:04.302+0000] {processor.py:157} INFO - Started process (PID=806) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:04.303+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:59:04.306+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:04.305+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:04.662+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:04.680+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:04.679+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:59:04.693+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:04.693+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:59:04.715+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.417 seconds
+[2024-12-17T23:59:35.477+0000] {processor.py:157} INFO - Started process (PID=869) to work on /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:35.478+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/preprocessing_dag.py for tasks to queue
+[2024-12-17T23:59:35.482+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:35.481+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:35.792+0000] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_preprocessing_dag']) retrieved from /opt/airflow/dags/preprocessing_dag.py
+[2024-12-17T23:59:35.809+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:35.809+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-12-17T23:59:35.823+0000] {logging_mixin.py:151} INFO - [2024-12-17T23:59:35.822+0000] {dag.py:3677} INFO - Setting next_dagrun for youtube_preprocessing_dag to None, run_after=None
+[2024-12-17T23:59:35.842+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/preprocessing_dag.py took 0.370 seconds

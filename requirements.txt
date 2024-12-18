@@ -1,0 +1,7 @@
+apache-airflow==2.7.0
+pandas==2.0.3
+google-api-python-client==2.107.0
+matplotlib==3.7.1
+seaborn==0.12.2
+transformers==4.30.2
+torch==2.0.1
